@@ -1,5 +1,5 @@
 # Music #
-(.HTML .JS .CSS)
+(.HTML /.JS/ .CSS)
 
 # Note #
 This project have 4 Files.

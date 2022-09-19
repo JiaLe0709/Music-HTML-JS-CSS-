@@ -36,3 +36,7 @@ This project have 4 Files.
 
   - if last (music-3) you can use (music-4)
   - (*music-1*,*music-2*,*music-3*,*music-4*....)
+
+# Link For Pages :
+
+https://jiale0709.github.io/Music-HTML-JS-CSS-/
